@@ -5,7 +5,7 @@
     </div>
     <div class="googlemaps">
       <GoogleMap
-        api-key="AIzaSyDfkMH1huAfGgjqK4JupNkfoFrASX5ibP0"
+        api-key="YOUR_GOOGLE_API_KEY"
         style="width: 100%; height: 100%"
         :center="center"
         :zoom="20"
