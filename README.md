@@ -1,3 +1,6 @@
 # Coffe-Shop-Template
 A simple Coffe Shop Webpage made with Vue3 Cli
->>>>>>> ed21996d15bc9df780dbd83f243d4f5a1713356e
+
+## Screenshot
+![coffe-shop-print](https://user-images.githubusercontent.com/43145168/124479332-8ad79700-dd7c-11eb-8e9b-d8d6cc81664a.jpg)
+
